@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaiqueXM
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently working in my repositories
 - 💞️ I’m looking to collaborate on Everthing
 - 📫 How to reach me kaiquexm@gmail.com
 
